@@ -7,3 +7,6 @@
 | 2026-02-13 | DSA | Math | Revised gcd, lcm, and modular arithmetic. |
 | 2026-02-13 | CN | DNS | Understood domain resolution. |
 | 2026-02-13 | Python | OOP | Revised classes, objects, inheritance, and polymorphism. |
+| 2026-02-14 | DSA | Queue | Studied circular queue and deque use cases. |
+| 2026-02-14 | DSA | Tree Traversal | Revised inorder, preorder, and postorder traversal. |
+| 2026-02-14 | Web Dev | Node.js | Studied event loop and async execution. |
