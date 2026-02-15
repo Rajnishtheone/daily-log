@@ -10,3 +10,6 @@
 | 2026-02-14 | DSA | Queue | Studied circular queue and deque use cases. |
 | 2026-02-14 | DSA | Tree Traversal | Revised inorder, preorder, and postorder traversal. |
 | 2026-02-14 | Web Dev | Node.js | Studied event loop and async execution. |
+| 2026-02-15 | Web Dev | Deployment | Understood basic deployment workflow. |
+| 2026-02-15 | Python | Functions | Worked with arguments, return values, and scope. |
+| 2026-02-15 | Web Dev | React Hooks | Revised useState and useEffect usage. |
