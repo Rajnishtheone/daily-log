@@ -14,3 +14,4 @@
 | 2026-02-15 | Python | Functions | Worked with arguments, return values, and scope. |
 | 2026-02-15 | Web Dev | React Hooks | Revised useState and useEffect usage. |
 | 2026-02-16 | DSA | Bit Manipulation | Practiced bitwise tricks and optimizations. |
+| 2026-02-17 | DSA | Graph DFS | Used recursion and stack-based DFS. |
