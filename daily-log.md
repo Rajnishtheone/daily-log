@@ -15,3 +15,6 @@
 | 2026-02-15 | Web Dev | React Hooks | Revised useState and useEffect usage. |
 | 2026-02-16 | DSA | Bit Manipulation | Practiced bitwise tricks and optimizations. |
 | 2026-02-17 | DSA | Graph DFS | Used recursion and stack-based DFS. |
+| 2026-02-18 | Git | Rebase | Understood rebase vs merge. |
+| 2026-02-18 | ML | Cross Validation | Why validation matters. |
+| 2026-02-18 | Git | Version Control | Revised git workflow. |
