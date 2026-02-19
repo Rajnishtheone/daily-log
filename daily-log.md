@@ -18,3 +18,6 @@
 | 2026-02-18 | Git | Rebase | Understood rebase vs merge. |
 | 2026-02-18 | ML | Cross Validation | Why validation matters. |
 | 2026-02-18 | Git | Version Control | Revised git workflow. |
+| 2026-02-19 | Web Dev | Backend | Revised REST API principles. |
+| 2026-02-19 | ML | Cross Validation | Why validation matters. |
+| 2026-02-19 | DSA | BST | Understood insertion, search, and deletion cases. |
