@@ -21,3 +21,5 @@
 | 2026-02-19 | Web Dev | Backend | Revised REST API principles. |
 | 2026-02-19 | ML | Cross Validation | Why validation matters. |
 | 2026-02-19 | DSA | BST | Understood insertion, search, and deletion cases. |
+| 2026-02-20 | Python | Data Types | Practiced list, tuple, set, and dictionary usage. |
+| 2026-02-20 | DSA | DP Tabulation | Built bottom-up table and compared with recursion. |
