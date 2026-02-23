@@ -26,3 +26,4 @@
 | 2026-02-21 | ML | Feature Engineering | Creating meaningful features. |
 | 2026-02-21 | CN | Security | Intro to HTTPS. |
 | 2026-02-22 | ML | Train-Test Split | Importance of data separation. |
+| 2026-02-23 | DSA | Greedy | Solved problems by identifying optimal local decisions. |
