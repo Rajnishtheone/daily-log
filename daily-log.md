@@ -27,3 +27,6 @@
 | 2026-02-21 | CN | Security | Intro to HTTPS. |
 | 2026-02-22 | ML | Train-Test Split | Importance of data separation. |
 | 2026-02-23 | DSA | Greedy | Solved problems by identifying optimal local decisions. |
+| 2026-02-24 | Git | Version Control | Revised git workflow. |
+| 2026-02-24 | Git | Best Practices | Clean commit messages. |
+| 2026-02-24 | DSA | DP Tabulation | Built bottom-up table and compared with recursion. |
