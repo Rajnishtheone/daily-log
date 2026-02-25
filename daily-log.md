@@ -30,3 +30,5 @@
 | 2026-02-24 | Git | Version Control | Revised git workflow. |
 | 2026-02-24 | Git | Best Practices | Clean commit messages. |
 | 2026-02-24 | DSA | DP Tabulation | Built bottom-up table and compared with recursion. |
+| 2026-02-25 | Python | OOP | Revised classes, objects, inheritance, and polymorphism. |
+| 2026-02-25 | OS | Deadlock | Revisited necessary conditions. |
