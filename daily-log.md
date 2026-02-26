@@ -33,3 +33,4 @@
 | 2026-02-25 | Python | OOP | Revised classes, objects, inheritance, and polymorphism. |
 | 2026-02-25 | OS | Deadlock | Revisited necessary conditions. |
 | 2026-02-26 | DSA | BST | Understood insertion, search, and deletion cases. |
+| 2026-02-26 | Web Dev | Node.js | Studied event loop behavior. |
