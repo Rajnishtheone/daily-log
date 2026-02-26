@@ -32,3 +32,4 @@
 | 2026-02-24 | DSA | DP Tabulation | Built bottom-up table and compared with recursion. |
 | 2026-02-25 | Python | OOP | Revised classes, objects, inheritance, and polymorphism. |
 | 2026-02-25 | OS | Deadlock | Revisited necessary conditions. |
+| 2026-02-26 | DSA | BST | Understood insertion, search, and deletion cases. |
