@@ -1,7 +1,7 @@
 name: Daily Learning Log Commit
+
 permissions:
   contents: write
-
 
 on:
   schedule:
@@ -26,110 +26,16 @@ jobs:
           fi
 
           ITEMS=(
-            # -------- DSA (25) --------
-            "DSA|Arrays|Revised array traversal, edge cases, and time complexity tradeoffs."
-            "DSA|Prefix Sum|Practiced prefix sum technique to reduce nested loops."
-            "DSA|Two Pointers|Solved problems using inward and outward pointer strategies."
-            "DSA|Sliding Window|Compared fixed and variable window patterns with examples."
-            "DSA|Binary Search|Handled boundary conditions and mid calculation carefully."
-            "DSA|Recursion|Traced recursive calls to understand stack behavior."
-            "DSA|Backtracking|Explored decision tree structure and pruning ideas."
-            "DSA|Linked List|Revised reversal and slow-fast pointer techniques."
-            "DSA|Stack|Used stack for expression validation and monotonic stack problems."
-            "DSA|Queue|Studied circular queue and deque use cases."
-            "DSA|Heap|Practiced min-heap vs max-heap applications."
-            "DSA|Hashing|Analyzed collision handling and lookup complexity."
-            "DSA|Greedy|Solved problems by identifying optimal local decisions."
-            "DSA|DP Basics|Identified overlapping subproblems and optimal substructure."
-            "DSA|DP Memoization|Converted recursive solution into memoized version."
-            "DSA|DP Tabulation|Built bottom-up table and compared with recursion."
-            "DSA|Tree Traversal|Revised inorder, preorder, and postorder traversal."
-            "DSA|BST|Understood insertion, search, and deletion cases."
-            "DSA|Graph BFS|Practiced level-order traversal using queue."
-            "DSA|Graph DFS|Used recursion and stack-based DFS."
-            "DSA|Shortest Path|Studied basic idea behind Dijkstra algorithm."
-            "DSA|Union Find|Learned cycle detection and union by rank."
-            "DSA|Bit Manipulation|Practiced bitwise tricks and optimizations."
-            "DSA|Math|Revised gcd, lcm, and modular arithmetic."
-            "DSA|Complexity|Analyzed time and space complexity of solutions."
-
-            # -------- WEB DEV (20) --------
-            "Web Dev|HTML|Revised semantic tags and accessibility basics."
-            "Web Dev|CSS|Practiced Flexbox alignment and layout control."
-            "Web Dev|CSS Grid|Understood grid-template and responsive layouts."
-            "Web Dev|JavaScript|Revised array, map, filter, and reduce methods."
-            "Web Dev|JavaScript|Practiced closures and scope behavior."
-            "Web Dev|JavaScript|Revisited async, await, and promise chaining."
-            "Web Dev|DOM|Manipulated DOM elements and event handling."
-            "Web Dev|React|Studied component structure and JSX rules."
-            "Web Dev|React Hooks|Revised useState and useEffect usage."
-            "Web Dev|Backend|Revised REST API principles."
-            "Web Dev|Node.js|Studied event loop and async execution."
-            "Web Dev|Express|Practiced routing and middleware usage."
-            "Web Dev|Auth|Understood JWT-based authentication flow."
-            "Web Dev|CORS|Revised same-origin policy and fixes."
-            "Web Dev|HTTP|Revisited HTTP methods and status codes."
-            "Web Dev|Security|Basic XSS and CSRF awareness."
-            "Web Dev|Deployment|Understood basic deployment workflow."
-            "Web Dev|Performance|Learned lazy loading and optimization."
-            "Web Dev|Cookies|Compared cookies vs localStorage."
-            "Web Dev|APIs|Pagination and filtering basics."
-
-            # -------- PYTHON (15) --------
-            "Python|Syntax|Revised basic syntax and indentation rules."
-            "Python|Data Types|Practiced list, tuple, set, and dictionary usage."
-            "Python|Functions|Worked with arguments, return values, and scope."
-            "Python|OOP|Revised classes, objects, inheritance, and polymorphism."
-            "Python|Exception Handling|Practiced try-except-finally blocks."
-            "Python|File Handling|Read and wrote files using context managers."
-            "Python|Modules|Imported built-in and custom modules."
-            "Python|Virtual Env|Understood venv and dependency isolation."
-            "Python|Libraries|Worked with NumPy basics."
-            "Python|Libraries|Practiced pandas data manipulation."
-            "Python|Libraries|Used matplotlib for simple visualizations."
-            "Python|Regex|Practiced pattern matching."
-            "Python|CLI Scripts|Wrote simple automation scripts."
-            "Python|Performance|Basic profiling and optimization."
-            "Python|Testing|Intro to unit testing."
-
-            # -------- MACHINE LEARNING (15) --------
-            "ML|Overview|Understood supervised vs unsupervised learning."
-            "ML|Data Preprocessing|Handled missing values and scaling."
-            "ML|Train-Test Split|Importance of data separation."
-            "ML|Linear Regression|Studied model training and assumptions."
-            "ML|Logistic Regression|Binary classification basics."
-            "ML|KNN|Distance-based classification concept."
-            "ML|Decision Tree|Entropy, gini, and splits."
-            "ML|Random Forest|Ensemble learning intuition."
-            "ML|Naive Bayes|Probability-based classification idea."
-            "ML|Model Evaluation|Accuracy, precision, recall, F1-score."
-            "ML|Overfitting|Bias-variance tradeoff understanding."
-            "ML|Cross Validation|Why validation matters."
-            "ML|Feature Engineering|Creating meaningful features."
-            "ML|Pipelines|End-to-end ML workflow."
-            "ML|Ethics|Basic fairness and bias awareness."
-
-            # -------- DBMS / OS / CN / GIT (20) --------
-            "DBMS|ER Model|Revised entity-relationship diagrams."
-            "DBMS|Normalization|Studied 1NF to BCNF."
-            "DBMS|SQL|Practiced SELECT, JOIN, and GROUP BY queries."
-            "DBMS|Indexing|Learned impact of indexes on performance."
-            "DBMS|Transactions|ACID properties understanding."
-            "OS|Process|Revised process states and PCB."
-            "OS|Threads|Compared process vs thread."
-            "OS|CPU Scheduling|Studied FCFS, SJF, and Round Robin."
-            "OS|Deadlock|Revisited necessary conditions."
-            "OS|Memory|Paging and segmentation basics."
-            "CN|OSI Model|Revised all 7 layers."
-            "CN|TCP vs UDP|Compared reliability and speed."
-            "CN|DNS|Understood domain resolution."
-            "CN|HTTP|Request-response flow."
-            "CN|Security|Intro to HTTPS."
-            "Git|Version Control|Revised git workflow."
-            "Git|Branching|Practiced branching and merging."
+            "DSA|Arrays|Revised array traversal and edge cases."
+            "DSA|Binary Search|Handled boundary conditions carefully."
+            "Web Dev|React|Revised useState and useEffect usage."
+            "Web Dev|Node.js|Studied event loop behavior."
+            "Python|OOP|Revised classes and inheritance."
+            "ML|Linear Regression|Studied model training basics."
+            "DBMS|Normalization|Revised 1NF to BCNF."
+            "OS|CPU Scheduling|Studied FCFS and Round Robin."
+            "CN|TCP vs UDP|Compared reliability differences."
             "Git|Rebase|Understood rebase vs merge."
-            "Git|Conflicts|Resolved merge conflicts."
-            "Git|Best Practices|Clean commit messages."
           )
 
           COMMITS=$(( (RANDOM % 3) + 1 ))
@@ -142,8 +48,8 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "Rajnish Kumar"
+          git config --global user.email "rajnishkk97@gmail.com"
           git add daily-log.md
-          git commit -m "chore: update daily learning log" || echo "Nothing to commit"
+          git diff --cached --quiet || git commit -m "chore: update daily learning log"
           git push
