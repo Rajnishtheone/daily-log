@@ -34,3 +34,5 @@
 | 2026-02-25 | OS | Deadlock | Revisited necessary conditions. |
 | 2026-02-26 | DSA | BST | Understood insertion, search, and deletion cases. |
 | 2026-02-26 | Web Dev | Node.js | Studied event loop behavior. |
+| 2026-02-27 | ML | Linear Regression | Studied model training basics. |
+| 2026-02-27 | Python | OOP | Revised classes and inheritance. |
