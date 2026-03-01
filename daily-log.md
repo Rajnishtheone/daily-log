@@ -37,3 +37,5 @@
 | 2026-02-27 | ML | Linear Regression | Studied model training basics. |
 | 2026-02-27 | Python | OOP | Revised classes and inheritance. |
 | 2026-02-28 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-01 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-01 | DSA | Arrays | Revised array traversal and edge cases. |
