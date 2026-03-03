@@ -42,3 +42,6 @@
 | 2026-03-02 | DSA | Binary Search | Handled boundary conditions carefully. |
 | 2026-03-02 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-02 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-03 | Web Dev | React | Revised useState and useEffect usage. |
+| 2026-03-03 | DSA | Binary Search | Handled boundary conditions carefully. |
+| 2026-03-03 | Web Dev | Node.js | Studied event loop behavior. |
