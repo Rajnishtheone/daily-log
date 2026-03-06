@@ -47,3 +47,6 @@
 | 2026-03-03 | Web Dev | Node.js | Studied event loop behavior. |
 | 2026-03-04 | DSA | Binary Search | Handled boundary conditions carefully. |
 | 2026-03-05 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-06 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-06 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-06 | Python | OOP | Revised classes and inheritance. |
