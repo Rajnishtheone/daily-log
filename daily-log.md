@@ -55,3 +55,5 @@
 | 2026-03-07 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-08 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-09 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-10 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-10 | Web Dev | React | Revised useState and useEffect usage. |
