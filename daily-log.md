@@ -58,3 +58,6 @@
 | 2026-03-10 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-10 | Web Dev | React | Revised useState and useEffect usage. |
 | 2026-03-11 | Web Dev | React | Revised useState and useEffect usage. |
+| 2026-03-12 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-12 | Web Dev | React | Revised useState and useEffect usage. |
+| 2026-03-12 | DSA | Binary Search | Handled boundary conditions carefully. |
