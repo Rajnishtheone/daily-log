@@ -61,3 +61,6 @@
 | 2026-03-12 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-12 | Web Dev | React | Revised useState and useEffect usage. |
 | 2026-03-12 | DSA | Binary Search | Handled boundary conditions carefully. |
+| 2026-03-13 | Git | Rebase | Understood rebase vs merge. |
+| 2026-03-13 | CN | TCP vs UDP | Compared reliability differences. |
+| 2026-03-13 | DSA | Arrays | Revised array traversal and edge cases. |
