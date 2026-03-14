@@ -64,3 +64,6 @@
 | 2026-03-13 | Git | Rebase | Understood rebase vs merge. |
 | 2026-03-13 | CN | TCP vs UDP | Compared reliability differences. |
 | 2026-03-13 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-14 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-14 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
+| 2026-03-14 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
