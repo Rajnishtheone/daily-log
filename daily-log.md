@@ -67,3 +67,5 @@
 | 2026-03-14 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-14 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
 | 2026-03-14 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
+| 2026-03-15 | Web Dev | React | Revised useState and useEffect usage. |
+| 2026-03-15 | CN | TCP vs UDP | Compared reliability differences. |
