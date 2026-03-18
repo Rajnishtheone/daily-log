@@ -75,3 +75,6 @@
 | 2026-03-17 | CN | TCP vs UDP | Compared reliability differences. |
 | 2026-03-17 | CN | TCP vs UDP | Compared reliability differences. |
 | 2026-03-17 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-18 | ML | Linear Regression | Studied model training basics. |
+| 2026-03-18 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-18 | ML | Linear Regression | Studied model training basics. |
