@@ -78,3 +78,6 @@
 | 2026-03-18 | ML | Linear Regression | Studied model training basics. |
 | 2026-03-18 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-18 | ML | Linear Regression | Studied model training basics. |
+| 2026-03-19 | Git | Rebase | Understood rebase vs merge. |
+| 2026-03-19 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-03-19 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
