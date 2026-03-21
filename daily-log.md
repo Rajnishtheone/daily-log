@@ -82,3 +82,6 @@
 | 2026-03-19 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-19 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
 | 2026-03-20 | Web Dev | Node.js | Studied event loop behavior. |
+| 2026-03-21 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
+| 2026-03-21 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-21 | Web Dev | React | Revised useState and useEffect usage. |
