@@ -86,3 +86,6 @@
 | 2026-03-21 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-21 | Web Dev | React | Revised useState and useEffect usage. |
 | 2026-03-22 | DSA | Binary Search | Handled boundary conditions carefully. |
+| 2026-03-23 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-23 | Web Dev | Node.js | Studied event loop behavior. |
+| 2026-03-23 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
