@@ -89,3 +89,5 @@
 | 2026-03-23 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-23 | Web Dev | Node.js | Studied event loop behavior. |
 | 2026-03-23 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
+| 2026-03-24 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-24 | DBMS | Normalization | Revised 1NF to BCNF. |
