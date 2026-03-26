@@ -93,3 +93,6 @@
 | 2026-03-24 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-25 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-03-25 | ML | Linear Regression | Studied model training basics. |
+| 2026-03-26 | CN | TCP vs UDP | Compared reliability differences. |
+| 2026-03-26 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-26 | DBMS | Normalization | Revised 1NF to BCNF. |
