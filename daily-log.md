@@ -96,3 +96,6 @@
 | 2026-03-26 | CN | TCP vs UDP | Compared reliability differences. |
 | 2026-03-26 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-26 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-27 | ML | Linear Regression | Studied model training basics. |
+| 2026-03-27 | Python | OOP | Revised classes and inheritance. |
+| 2026-03-27 | DBMS | Normalization | Revised 1NF to BCNF. |
