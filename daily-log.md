@@ -99,3 +99,6 @@
 | 2026-03-27 | ML | Linear Regression | Studied model training basics. |
 | 2026-03-27 | Python | OOP | Revised classes and inheritance. |
 | 2026-03-27 | DBMS | Normalization | Revised 1NF to BCNF. |
+| 2026-03-28 | Web Dev | Node.js | Studied event loop behavior. |
+| 2026-03-28 | OS | CPU Scheduling | Studied FCFS and Round Robin. |
+| 2026-03-28 | ML | Linear Regression | Studied model training basics. |
