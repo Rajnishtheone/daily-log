@@ -108,3 +108,4 @@
 | 2026-03-30 | Web Dev | Node.js | Studied event loop behavior. |
 | 2026-03-30 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-30 | DSA | Binary Search | Handled boundary conditions carefully. |
+| 2026-03-31 | Web Dev | Node.js | Studied event loop behavior. |
