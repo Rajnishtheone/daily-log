@@ -109,3 +109,6 @@
 | 2026-03-30 | DBMS | Normalization | Revised 1NF to BCNF. |
 | 2026-03-30 | DSA | Binary Search | Handled boundary conditions carefully. |
 | 2026-03-31 | Web Dev | Node.js | Studied event loop behavior. |
+| 2026-04-01 | Python | OOP | Revised classes and inheritance. |
+| 2026-04-01 | DSA | Arrays | Revised array traversal and edge cases. |
+| 2026-04-01 | CN | TCP vs UDP | Compared reliability differences. |
