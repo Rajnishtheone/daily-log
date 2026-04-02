@@ -112,3 +112,4 @@
 | 2026-04-01 | Python | OOP | Revised classes and inheritance. |
 | 2026-04-01 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-04-01 | CN | TCP vs UDP | Compared reliability differences. |
+| 2026-04-02 | Git | Rebase | Understood rebase vs merge. |
