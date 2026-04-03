@@ -113,3 +113,6 @@
 | 2026-04-01 | DSA | Arrays | Revised array traversal and edge cases. |
 | 2026-04-01 | CN | TCP vs UDP | Compared reliability differences. |
 | 2026-04-02 | Git | Rebase | Understood rebase vs merge. |
+| 2026-04-03 | DSA | Binary Search | Handled boundary conditions carefully. |
+| 2026-04-03 | ML | Linear Regression | Studied model training basics. |
+| 2026-04-03 | Web Dev | Node.js | Studied event loop behavior. |
