@@ -10,7 +10,7 @@ on:
 
 jobs:
   daily-log:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-
 
     steps:
       - uses: actions/checkout@v3
